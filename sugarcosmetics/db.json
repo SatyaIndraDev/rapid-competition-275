@@ -1,0 +1,490 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "primers",
+      "name": "SUGAR Prime Sublime Primer - Brightening",
+      "price": "₹499.00",
+      "actual_price": 499,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/BrighteningPrimer.jpg?v=1666886739",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/Model-Brightening-Primer.jpg?v=1666886741",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-Prime-Sublime-Primer---Powered-By-Images1.jpg?v=1666873373",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-Prime-Sublime-Primer---Powered-By-Images2.jpg?v=1666873373"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "4.8(274)",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "type": "primers",
+      "name": "Mettle Priming Balm",
+      "price": "₹1099.00",
+      "actual_price": 1099,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/382512089-mettle-priming-balm-01.jpg?v=1648654861",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/382512092-mettle-priming-balm-02.jpg?v=1648654863",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/382512098-mettle-priming-balm-03.jpg?v=1648654866",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/382512104-mettle-priming-balm-04.jpg?v=1648654868"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "4.8(274)",
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "type": "primers",
+      "name": "Base Of Glory Pore Minimizing Primer",
+      "price": "₹799.00",
+      "actual_price": 799,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/1_e9355d54-6ddb-4aa4-bdfc-176a676db886.jpg?v=1657257149",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/5_1_5d67622f-a55f-49b6-b667-9d6573c9b1f5.jpg?v=1657257149",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/5_1_5d67622f-a55f-49b6-b667-9d6573c9b1f5.jpg?v=1657257149",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/3_387d934a-e3ce-4752-b70e-2710d685b7bc.jpg?v=1657257149"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "4.8(274)",
+      "quantity": 1
+    },
+    {
+      "id": 4,
+      "type": "primers",
+      "name": "The Most Eligiblur Correcting Primer - 02 Onward Orange (Orange)",
+      "price": "₹799.00",
+      "actual_price": 799,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/1_270fb7dc-e51b-4c12-8bcf-18919fd35415.jpg?v=1652942969",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/2_e4f47f55-6186-4de9-8b08-a60f89a29e57.jpg?v=1652942969",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/2_38019f47-c091-4391-acd2-07b452115a47.jpg?v=1652976031",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/4_354b55b4-ab22-4bda-b4e7-5eccc522ad15.jpg?v=1652942969"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "4.3(174)",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "type": "primers",
+      "name": "Face Fwd  Primer Stick",
+      "price": "₹799.00",
+      "actual_price": 799,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-13825409417299.jpg?v=1619116598",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-14330457030739.jpg?v=1619116600",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-14330457030739.jpg?v=1619116600",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-primer-stick-13824753795155.jpg?v=1619116604"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "4.6(74)",
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "type": "primers",
+      "name": "The Most Eligiblur Smoothing Primer",
+      "price": "₹849.00",
+      "actual_price": 849,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-28122626162771.jpg?v=1619115330",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-14270759436371.jpg?v=1619115333",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-28122626195539.jpg?v=1619115334",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-the-most-eligiblur-smoothing-primer-13607201538131.jpg?v=1619115337"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "4.3(38)",
+      "quantity": 1
+    },
+    {
+      "id": 7,
+      "type": "primers",
+      "name": "The Most Eligiblur Correcting Primer - 03 Jade Jockey (Green)",
+      "price": "₹649.00",
+      "actual_price": 649,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/1_944437bb-7ed0-423f-bdbf-153ad7fefcde.jpg?v=1652942992",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/2_689d2f98-191e-4e1b-948e-39dca576a8ab.jpg?v=1652942992",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/2_689d2f98-191e-4e1b-948e-39dca576a8ab.jpg?v=1652942992",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/4_f1c8aafe-4f51-44a7-aa7d-2336f084b9a1.jpg?v=1652943004"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "4.8(389)",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "type": "primers",
+      "name": "The Most Eligiblur Correcting Primer - 01 Peach Precedent (Peach)",
+      "price": "₹549.00",
+      "actual_price": 549,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/1_2170e342-a8fc-4fb4-a5ea-5f0c8bedbfdf.jpg?v=1652942866",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/2_1268d25b-dcf4-43f8-9fd8-ee83b33e0dc0.jpg?v=1652942866",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/2_1268d25b-dcf4-43f8-9fd8-ee83b33e0dc0.jpg?v=1652942866",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/4_46dace73-190c-4634-8859-dab9dfb5ba85.jpg?v=1652942883"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "5.0(9)",
+      "quantity": 1
+    },
+    {
+      "id": 9,
+      "type": "primers",
+      "name": "Prime Sublime Depuffing Primer",
+      "price": "₹489.00",
+      "actual_price": 489,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/Depuffing-Primer.jpg?v=1666886769",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/Model-Depuffing-Primer.jpg?v=1666886772",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-Prime-Sublime-Primer---Powered-By-Images1_f299c073-7bc2-48b4-a705-77932c05815c.jpg?v=1666886774",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-Prime-Sublime-Primer---Powered-By-Images2_255d2402-5024-4388-b331-ce17b2a9583b.jpg?v=1666886777"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "5.0(87)",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "type": "powder",
+      "name": "All Set To Go Translucent Powder",
+      "price": "₹599.00",
+      "actual_price": 599,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/3_7.jpg?v=1626795160",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-translucent-powder-14376568324179.jpg?v=1626752637",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/4_8.jpg?v=1626795162",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-translucent-powder-12785059922003.jpg?v=1626752637"
+      ],
+      "feature": "Translucent Powder",
+      "formulation": "Loose Powder",
+      "concern": "oil control",
+      "rating": "4.8(512)",
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "type": "powder",
+      "name": "All Set To Go Banana Powder",
+      "price": "₹599.00",
+      "actual_price": 599,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/3_7.jpg?v=1626795160",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-translucent-powder-14376568324179.jpg?v=1626752637",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/4_8.jpg?v=1626795162",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-all-set-to-go-translucent-powder-12785059922003.jpg?v=1626752637"
+      ],
+      "feature": "Translucent Powder",
+      "formulation": "Loose Powder",
+      "concern": "oil control",
+      "rating": "4.8(146)",
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "type": "powder",
+      "name": "Set The Tone Tinted Powder - 10 Latte (Light)",
+      "price": "₹699.00",
+      "actual_price": 699,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/10_c8b72d1d-5416-4c78-9013-d4199d68ba3a.jpg?v=1648741240",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/10_c8b72d1d-5416-4c78-9013-d4199d68ba3a.jpg?v=1648741240",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-set-the-tone-tinted-powder-10-latte-light-13437913301075.jpg?v=1648699746",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-set-the-tone-tinted-powder-10-latte-light-13437913301075.jpg?v=1648699746"
+      ],
+      "feature": "Translucent Powder",
+      "formulation": "Loose Powder",
+      "concern": "oil control",
+      "rating": "4.2(946)",
+      "quantity": 1
+    },
+    {
+      "id": 13,
+      "type": "compact",
+      "name": "Dream Cover SPF15 Mattifying Compact - 10 Latte (light)",
+      "price": "₹399.00",
+      "actual_price": 399,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-light-12775602454611.jpg?v=1619106458",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-light-14376511701075.jpg?v=1619106460",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-light-14376511701075.jpg?v=1619106460",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-light-12775602520147.jpg?v=1619106464"
+      ],
+      "feature": "Translucent Powder",
+      "formulation": "Pressed Powder",
+      "concern": "under eye",
+      "rating": "4.7(224)",
+      "quantity": 1
+    },
+    {
+      "id": 14,
+      "type": "compact",
+      "name": "Powder Play Banana Compact",
+      "price": "₹299.00",
+      "actual_price": 299,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-28122599424083.jpg?v=1619116314",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-14285193117779.jpg?v=1619116316",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-13731547218003.jpg?v=1643980466",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-banana-compact-28122599489619.jpg?v=1619116321"
+      ],
+      "feature": "Translucent Powder",
+      "formulation": "Pressed Powder",
+      "concern": "under eye",
+      "rating": "4.1(24)",
+      "quantity": 1
+    },
+    {
+      "id": 15,
+      "type": "compact",
+      "name": "Powder Play Translucent Compact",
+      "price": "₹329.00",
+      "actual_price": 329,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-28122598932563.jpg?v=1619116304",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-14285199310931.jpg?v=1619116307",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-13731550036051.jpg?v=1619116309",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-powder-play-translucent-compact-28122598965331.jpg?v=1619116312"
+      ],
+      "feature": "Translucent Powder",
+      "formulation": "Pressed Powder",
+      "concern": "under eye",
+      "rating": "4.5(54)",
+      "quantity": 1
+    },
+    {
+      "id": 16,
+      "type": "compact",
+      "name": "Dream Cover SPF15 Mattifying Compact - 10 Latte (light)",
+      "price": "₹399.00",
+      "actual_price": 399,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-light-12775602454611.jpg?v=1619106458",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-light-14376511701075.jpg?v=1619106460",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-light-14376511701075.jpg?v=1619106460",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-dream-cover-spf15-mattifying-compact-10-latte-light-12775602520147.jpg?v=1619106464"
+      ],
+      "feature": "Translucent Powder",
+      "formulation": "Pressed Powder",
+      "concern": "under eye",
+      "rating": "4.7(224)",
+      "quantity": 1
+    },
+    {
+      "id": 17,
+      "type": "Foundations & Concealers",
+      "name": "Ace Of Face Foundation Stick - 25 Macchiato (Light Medium, Olive Undertone) - 25 Macchiato (Light Medium Olive Undertone) ",
+      "price": "₹999.00",
+      "actual_price": 999,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/1_8ed6a803-59c7-41dd-b798-b7837c92b69f.jpg?v=1640792718",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/2_18188240-ab45-4079-b05b-c5112f0b93b3.jpg?v=1640869956",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/7_1d181022-bd26-4c16-82e0-349aba006e2c.jpg?v=1655818307",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/7_1d181022-bd26-4c16-82e0-349aba006e2c.jpg?v=1655818307"
+      ],
+      "feature": "Face Foundation",
+      "formulation": "stick",
+      "concern": "Brightening",
+      "rating": "3.7(224)",
+      "quantity": 1
+    },
+    {
+      "id": 18,
+      "type": "Foundations & Concealers",
+      "name": "Rage For Coverage 24Hr Foundation - 07 Vanilla Latte ",
+      "price": "₹999.00",
+      "actual_price": 659,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28390674923603.jpg?v=1623073415",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28390674890835.jpg?v=1623073417",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28390873235539.jpg?v=1623071689",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-rage-for-coverage-24hr-foundation-07-vanilla-latte-fair-golden-undertone-28392387870803.jpg?v=1623073419"
+      ],
+      "feature": "Face Foundation",
+      "formulation": "stick",
+      "concern": "Brightening",
+      "rating": "3.9(204)",
+      "quantity": 1
+    },
+    {
+      "id": 19,
+      "type": "Foundations & Concealers",
+      "name": "Drop The Base Serum Foundation - 32 Cortado ",
+      "price": "₹450.00",
+      "actual_price": 450,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-drop-the-base-serum-foundation-10-latte-light-warm-undertone-10965228388435.jpg?v=1619107903",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-drop-the-base-serum-foundation-10-latte-light-warm-undertone-10959780806739.jpg?v=1619107905",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-drop-the-base-serum-foundation-10-latte-light-warm-undertone-10959780806739.jpg?v=1619107905"
+      ],
+      "feature": "Face Foundation",
+      "formulation": "stick",
+      "concern": "Brightening",
+      "rating": "4.8(20)",
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "type": "BB Cream",
+      "name": "Goddess Of Flawless SPF30+ BB Cream - 07 Vanilla Latte",
+      "price": "149.00",
+      "actual_price": 149,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-07-vanilla-latte-fair-12794189971539.jpg?v=1619114613",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-07-vanilla-latte-fair-12794189971539.jpg?v=1619114613",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-07-vanilla-latte-fair-14401666678867.jpg?v=1619114618",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-07-vanilla-latte-fair-12796404170835.jpg?v=1646226816"
+      ],
+      "feature": "stick",
+      "formulation": "stick",
+      "concern": "Brightening",
+      "rating": "4.7(87)",
+      "quantity": 1
+    },
+    {
+      "id": 21,
+      "type": "palette",
+      "name": "Contour De Force Face Palette - 01 Subtle Summit",
+      "price": "589.00",
+      "actual_price": 589,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/1_c36c9186-d377-4704-bd67-1a18d6e8541c.jpg?v=1639582576",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/6_832236c1-6949-4810-b015-0b366cc48f59.jpg?v=1657012482",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/7_be65a9a7-273a-4bcb-ab66-62e35a6dbbde.jpg?v=1657012482",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/3_8931efd5-56ed-4166-b472-78775e2fbcbb.jpg?v=1657012482"
+      ],
+      "formulation": "Pressed Powder",
+      "concern": "oil control",
+      "rating": "4.0(187)",
+      "feature": "stick",
+      "quantity": 1
+    },
+    {
+      "id": 22,
+      "type": "palette",
+      "name": "Contour De Force Eyes And Face Palette - 01 - Warm Win",
+      "price": "1099.00",
+      "actual_price": 1099,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/1_7cdc1fa6-fc3f-4cae-93c7-f940ff2da937.jpg?v=1657209586",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/3_24ebc645-031e-4544-ad8d-44c5373e7b1f.jpg?v=1657209588",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/7_8a9442d1-8017-41fa-8c95-df0ee030f46d.jpg?v=1657209590",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/7_8a9442d1-8017-41fa-8c95-df0ee030f46d.jpg?v=1657209590"
+      ],
+      "formulation": "Pressed Powder",
+      "concern": "oil control",
+      "rating": "5.0(9)",
+      "feature": "stick",
+      "quantity": 1
+    },
+    {
+      "id": 23,
+      "type": "palette",
+      "name": "Contour De Force Eyes And Face Palette 02 - Pink Pro",
+      "price": "1099.00",
+      "actual_price": 1099,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/1_13a304df-efca-4b67-aa0f-f97acd6869a3.jpg?v=1657209602",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/3_468fc7ba-ce75-4953-8262-e0f5b17f84c0.jpg?v=1657209605",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/7_51706214-61c3-41e8-baf6-e3f3325992a2.jpg?v=1657209607",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/4_e99c9e71-8d49-4a70-810f-29520abc9873.jpg?v=1657209610"
+      ],
+      "formulation": "Pressed Powder",
+      "concern": "oil control",
+      "rating": "4.8(900)",
+      "feature": "stick",
+      "quantity": 1
+    },
+    {
+      "id": 25,
+      "type": "value sets",
+      "name": "Lip Balm + Mini Liquid Lipstick",
+      "price": "360.00",
+      "actual_price": 360,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/09_1.jpg?v=1630597664",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/06_1.jpg?v=1630597666",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/06_1.jpg?v=1630597666"
+      ],
+      "formulation": "Liquid",
+      "concern": "Blurring",
+      "rating": "4.8(900)",
+      "feature": "stick",
+      "quantity": 1
+    },
+    {
+      "id": 26,
+      "type": "value sets",
+      "name": "Face Palette + Mini Liquid Lipstick value set",
+      "price": "849.00",
+      "actual_price": 849,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/1.jpg?v=1646298577",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/3_7_a0feb20c-7955-4921-9218-c0f63c6ef84f.jpg?v=1646298577",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/2_11d7e12e-e31e-4d43-a358-4e87d0b10b86.jpg?v=1646322386",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/imagea.jpg?v=1646298581"
+      ],
+      "formulation": "Liquid",
+      "concern": "Blurring",
+      "rating": "4.9(28)",
+      "feature": "stick",
+      "quantity": 1
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "type": "primers",
+      "name": "SUGAR Prime Sublime Primer - Brightening",
+      "price": "₹499.00",
+      "actual_price": 499,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/BrighteningPrimer.jpg?v=1666886739",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/Model-Brightening-Primer.jpg?v=1666886741",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-Prime-Sublime-Primer---Powered-By-Images1.jpg?v=1666873373",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/SUGAR-Prime-Sublime-Primer---Powered-By-Images2.jpg?v=1666873373"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "4.8(274)",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "type": "primers",
+      "name": "Mettle Priming Balm",
+      "price": "₹1099.00",
+      "actual_price": 1099,
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/382512089-mettle-priming-balm-01.jpg?v=1648654861",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/382512092-mettle-priming-balm-02.jpg?v=1648654863",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/382512098-mettle-priming-balm-03.jpg?v=1648654866",
+        "https://cdn.shopify.com/s/files/1/0906/2558/products/382512104-mettle-priming-balm-04.jpg?v=1648654868"
+      ],
+      "feature": "primer",
+      "formulation": "cream",
+      "concern": "Brightening",
+      "rating": "4.8(274)",
+      "quantity": 1
+    }
+  ]
+}
